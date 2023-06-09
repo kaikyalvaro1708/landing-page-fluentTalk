@@ -1,0 +1,28 @@
+
+:root{
+    --cor-vermelho-claro: #ffd2dd;
+    --cor-principal: #ba0000;
+    --cor-cinza: #737373;
+    --cor-branca: #ffffff;
+}
+
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    overflow-x: hidden;
+}
+
+.navbar,
+.navbar-brand
+.navbar-toggler
+.nav-link{
+    background-color: var(--cor-principal);
+    color: var(--cor-branca);
+}
+
+.primeirasecao{
+    background-color: var(--cor-branca);
+    color: var(--cor-cinza);
+}
