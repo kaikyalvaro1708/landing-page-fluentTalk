@@ -14,6 +14,7 @@ body{
     overflow-x: hidden;
 }
 
+/* Navegação */
 .navbar,
 .navbar-brand
 .navbar-toggler
@@ -21,8 +22,16 @@ body{
     background-color: var(--cor-principal);
     color: var(--cor-branca);
 }
-
+/* Seção 01 */
 .primeirasecao{
     background-color: var(--cor-branca);
+    color: var(--cor-cinza);
+}
+
+/* Seção de procura */
+.secaoprocura{
+    background-color: #f5f9fb;
+}
+.secaoprocura{
     color: var(--cor-cinza);
 }
