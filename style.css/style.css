@@ -9,7 +9,6 @@
 body{
     margin:0;
     padding: 0;
-    box-sizing: border-box;
     text-decoration: none;
     overflow-x: hidden;
 }
@@ -34,4 +33,9 @@ body{
 }
 .secaoprocura{
     color: var(--cor-cinza);
+}
+
+/* Seção 01 */
+.secao-aprendizado{
+    background-color: #f5f9fb;
 }
